@@ -1,1 +1,1 @@
-# Main Features
+# Main features
