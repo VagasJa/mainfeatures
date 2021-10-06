@@ -3,12 +3,12 @@ Funcionalidade: Fazer login
 
 Cenario: Usuários já cadastrados fazem login
    Dado que Thales tem uma conta  
-   Quando Thales fazer login com suas credenciais válidas
+   Quando Thales fizer login com suas credenciais válidas
    Entao ele acessa a sua pagina inicial
 
 Cenario: Usuários já cadastrados esqueceram as credenciais
    Dado que Thales tem uma conta
-   Quando Thales fazer login com suas credenciais erradas
+   Quando Thales fizer login com suas credenciais erradas
    Entao ele deverá ser informado da possibiidade de troca de senha
 
 Cenario: Usuários não cadastrados tentam fazer login
