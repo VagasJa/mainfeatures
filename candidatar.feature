@@ -1,4 +1,5 @@
 #language: pt-br
+
 Funcionalidade: Candidatura dos usuários 
 usuário gostaria de poder se candidatar a uma ou mais vagas de emprego de modo que ele possa participar dos processos seletivos.
 um usuário com cadastro, Quando eu clicar em (candidatar a vaga), Então devo ser direcionado para a pagina do processo seletivo.

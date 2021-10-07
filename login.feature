@@ -1,6 +1,6 @@
 #language: pt-br
-Funcionalidade: Fazer login
 
+Funcionalidade: Fazer login
 Cenario: Usuários já cadastrados fazem login
    Dado que Thales tem uma conta  
    Quando Thales fizer login com suas credenciais válidas
@@ -15,3 +15,4 @@ Cenario: Usuários não cadastrados tentam fazer login
    Dado que Thales não tem uma conta
    Quando Thales tentar fazer login
    Entao ele deverá ser informado que não tem conta e deverá ser direcionado a tela de cadastrados
+   
