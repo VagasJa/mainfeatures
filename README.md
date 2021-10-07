@@ -15,7 +15,7 @@ O nosso P.O desejou que fosse desenvolvido um aplicativo e website para a empres
 
 O PO foi entrevistado pelo time Scrum para o entendimento e mapeamento das necessidades iniciais e prioritárias desse produto.
 
-Nosso time criou um board no GitHub [(clique aqui para acessar)](https://github.com/orgs/VagasJa/projects/1) para mapear as 5 features [(clique aqui para acessar as features)](https://github.com/VagasJa/mainfeatures) que o nosso PO julgou ser o principal.
+Nosso time criou um board no GitHub [(clique aqui para acessar)](https://github.com/orgs/VagasJa/projects/1) para mapear as 5 features que o nosso PO julgou ser o principal (logo acima).
 
 Utilizamos a linguagem Gherkin [(veja mais sobre essa linguagem aqui)](https://cucumber.io/docs/gherkin/).
 
